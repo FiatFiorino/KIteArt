@@ -1,4 +1,4 @@
-# KIteArt
+# KiteArt
 
 Total number of tokens = 100000000
 
